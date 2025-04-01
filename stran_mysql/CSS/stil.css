@@ -1,0 +1,85 @@
+body {
+    background-image: url("../slike/ozadje.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 120%;
+    color: rgb(255, 255, 255);
+    background-attachment: fixed;
+  }
+
+h1 {
+  text-align: center;
+  font-size: 260%;
+  color:rgb(219, 73, 73);
+}
+
+h2{
+  color:rgb(219, 73, 73);
+  font-size: 110%;
+}
+
+a{
+  color: rgb(167, 232, 154);
+  padding: 5px
+
+}
+
+nav{
+  background-color:rgb(219, 73, 73, 0.8); 
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  font-weight: bold;
+
+  border-radius: 5px;
+  width: 99%;
+  box-sizing: border-box;
+}
+
+.okvircek{
+  background-color: rgba(249, 220, 133, 0.8);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  text-align: center;
+  width: 99%;
+  box-sizing: border-box;
+}
+
+.okvircek2{
+  background-color: rgba(148, 230, 124, 0.8);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  text-align: center;
+  width: 99%;
+  box-sizing: border-box;
+}
+
+
+.neuspeh{
+  color: rgb(255, 0, 0);   
+  background-color: white;   
+  border-radius: 5px; 
+  width: 20%; 
+  text-align: center; 
+  display: block; 
+  width: fit-content; 
+  margin: 5px auto;
+  padding: 5px;
+}
+
+
+.uspeh{
+  color:rgb(167, 232, 154);
+  background-color: white;   
+  border-radius: 5px; 
+  width: 20%; 
+  text-align: center; 
+  display: block; 
+  width: fit-content; 
+  margin: 5px auto;
+  padding: 5px;
+}
+
